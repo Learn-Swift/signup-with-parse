@@ -1,0 +1,9 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "ef32047ecc2edb6e3e7b2116d5143776"
+build_time: [502987295, 408025000]
+inputs:
+  "/Users/nnduc/Documents/Code/Swift/signup-with-parse/signup-with-parse/signup-with-parse/LoginViewController.swift": [502987243, 0]
+  "/Users/nnduc/Documents/Code/Swift/signup-with-parse/signup-with-parse/signup-with-parse/AppDelegate.swift": [502987107, 0]
+  "/Users/nnduc/Documents/Code/Swift/signup-with-parse/signup-with-parse/signup-with-parse/ResetPasswordViewController.swift": [9223372036854775807, 0]
+  "/Users/nnduc/Documents/Code/Swift/signup-with-parse/signup-with-parse/signup-with-parse/HomeViewController.swift": [502987257, 0]
+  "/Users/nnduc/Documents/Code/Swift/signup-with-parse/signup-with-parse/signup-with-parse/SignUpViewController.swift": [502987277, 0]
